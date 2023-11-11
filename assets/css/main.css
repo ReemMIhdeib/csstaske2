@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.801);
+}
+.navbar .container{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.navbar img {
+    width: 50%;
+}
+.nav{
+    
+    
+}
+.nav ul{
+    
+    list-style-type: none;
+}
+.nav .listt {
+    display: flex;
+    padding-top: 5px;
+    
+}
+.nav .itemlist{
+
+    margin-right: 10px;
+}
+.nav .itemlist a{
+color: white;
+}
+.PORTFOLIO .container{
+   margin-top: 50px;
+    width: 900px;
+    flex-wrap: wrap;
+
+   text-align: center;
+  
+
+    background-color: rgb(243, 239, 239)
+}
+.PORTFOLIO .port_items {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.items{
+    padding-right: 10px;
+    padding-top: 30px;
+    
+}
+.PORTFOLIO img {
+    width: 220px;
+}

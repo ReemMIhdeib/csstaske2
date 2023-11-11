@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clr{
+    clear: both;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+
+.navbar{
+    background-color: black;
+    height: 50px;
+
+}
+
+.navbar .logo{
+    float: left;
+
+}
+
+.logo img {
+    width: 30%;
+
+}
+
+ .listT {
+ 
+    float: right;
+ 
+
+   
+}
+.listT ul{
+    list-style-type: none;
+}
+.listT ul li{
+    float: left;
+    margin-right: 15px;
+    align-content: ;
+    
+
+}
+.listT a{
+    color: white;
+
+}
+.PORTFOLIO{
+    text-align: center;
+    background-color: aliceblue;
+
+}
+.WOOW{
+ 
+    
+    Float: left;
+    width: 33.33%;
+    padding-right: 10px;
+   
+}
+
+.PORTFOLIO  img{
+
+  float: left;
+  width: 50%;
+
+}
